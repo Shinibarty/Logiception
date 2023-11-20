@@ -73,5 +73,13 @@ Le projet de CultureDiffusion consiste à développer une bibliothèque numériq
 - Développement des fonctionnalités de l'application.
 - Mise en place des procédures de tests et de déploiement.
 
+## 2023-11-13
+
+## Rédaction du `Scenario.md`
+- On a rédigé les scénarios avec un "ami".
+
+## 2023-11-20
+- Mise en forme du répertoire, création de dossiers etc.
+
 
 
